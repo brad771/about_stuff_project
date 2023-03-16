@@ -21,9 +21,9 @@
 
   <h2>About Me</h2>
 
-  <p>I'm an aspiring software engineer, currently studying computer science at a university. I love coding, problem-solving, and learning new technologies. I'm also passionate about photography and enjoy capturing beautiful moments.</p>
+  <p>I love outdoor activities. Especially surfing, hiking, and pickle ball</p>
 
-  <p>In my free time, I like to work on personal coding projects, read books, and explore new places.</p>
+  <p>In my free time, I like to meditate, travel, and enjoy new foods.</p>
 
   <h2>Projects</h2>
 
@@ -51,7 +51,6 @@
 
   <ul>
     <li>Email: <a href="mailto:myemail@gmail.com">myemail@gmail.com</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/myprofile/">My LinkedIn Profile</a></li>
   </ul>
 
   <img src="./images/github-logo.png" alt="GitHub Logo">
